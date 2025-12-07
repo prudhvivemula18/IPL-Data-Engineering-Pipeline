@@ -8,7 +8,6 @@ This project builds a scalable ETL (Extract, Transform, Load) pipeline that inge
 ## 🏗️ Architecture
 **Flow:** `Cricsheet (Source)` -> `Python (Extraction)` -> `AWS S3 (Data Lake)` -> `Snowflake (Data Warehouse)` -> `Streamlit (Analytics)`
 
-![Architecture](https://i.imgur.com/your-diagram-link-if-you-have-one.png)
 
 ## 🛠️ Tech Stack
 * **Language:** Python (Pandas, Boto3)
