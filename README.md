@@ -25,7 +25,7 @@ This project builds a scalable ETL (Extract, Transform, Load) pipeline that inge
 ##  How to Run
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/yourusername/IPL-Data-Engineering-Pipeline.git](https://github.com/yourusername/IPL-Data-Engineering-Pipeline.git)
+    git clone [(https://github.com/prudhvivemula18/IPL-Data-Engineering-Pipeline.git)]
     ```
 2.  Install dependencies:
     ```bash
