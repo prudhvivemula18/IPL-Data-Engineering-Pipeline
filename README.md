@@ -39,3 +39,5 @@ This project builds a scalable ETL (Extract, Transform, Load) pipeline that inge
     ```bash
     streamlit run app.py
     ```
+Dashboard :
+    <img width="1366" height="525" alt="Image" src="https://github.com/user-attachments/assets/a385fe6f-d0a6-451d-88b9-dc9678e50b31" />
